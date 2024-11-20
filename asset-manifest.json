@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sabrina/static/css/main.c0ee7308.css",
-    "main.js": "/Sabrina/static/js/main.f2ca6621.js",
+    "main.css": "/Sabrina/static/css/main.59c8d574.css",
+    "main.js": "/Sabrina/static/js/main.b85e29d6.js",
     "static/js/453.1c8487da.chunk.js": "/Sabrina/static/js/453.1c8487da.chunk.js",
     "static/media/B.pdf": "/Sabrina/static/media/B.1f8ed5a3723dadd3aa0b.pdf",
     "static/media/C.pdf": "/Sabrina/static/media/C.7155208ebb5e42880e70.pdf",
@@ -46,12 +46,12 @@
     "static/media/G.jpg": "/Sabrina/static/media/G.449bbbc091b5376fe377.jpg",
     "static/media/P.jpg": "/Sabrina/static/media/P.97c28fd3872e54f8a290.jpg",
     "index.html": "/Sabrina/index.html",
-    "main.c0ee7308.css.map": "/Sabrina/static/css/main.c0ee7308.css.map",
-    "main.f2ca6621.js.map": "/Sabrina/static/js/main.f2ca6621.js.map",
+    "main.59c8d574.css.map": "/Sabrina/static/css/main.59c8d574.css.map",
+    "main.b85e29d6.js.map": "/Sabrina/static/js/main.b85e29d6.js.map",
     "453.1c8487da.chunk.js.map": "/Sabrina/static/js/453.1c8487da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0ee7308.css",
-    "static/js/main.f2ca6621.js"
+    "static/css/main.59c8d574.css",
+    "static/js/main.b85e29d6.js"
   ]
 }
