@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sabrina/static/css/main.59c8d574.css",
-    "main.js": "/Sabrina/static/js/main.253991c2.js",
+    "main.js": "/Sabrina/static/js/main.1f1e1b67.js",
     "static/js/453.1c8487da.chunk.js": "/Sabrina/static/js/453.1c8487da.chunk.js",
     "static/media/B.pdf": "/Sabrina/static/media/B.1f8ed5a3723dadd3aa0b.pdf",
     "static/media/C.pdf": "/Sabrina/static/media/C.7155208ebb5e42880e70.pdf",
@@ -47,11 +47,11 @@
     "static/media/P.jpg": "/Sabrina/static/media/P.97c28fd3872e54f8a290.jpg",
     "index.html": "/Sabrina/index.html",
     "main.59c8d574.css.map": "/Sabrina/static/css/main.59c8d574.css.map",
-    "main.253991c2.js.map": "/Sabrina/static/js/main.253991c2.js.map",
+    "main.1f1e1b67.js.map": "/Sabrina/static/js/main.1f1e1b67.js.map",
     "453.1c8487da.chunk.js.map": "/Sabrina/static/js/453.1c8487da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59c8d574.css",
-    "static/js/main.253991c2.js"
+    "static/js/main.1f1e1b67.js"
   ]
 }
